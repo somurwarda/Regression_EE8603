@@ -8,3 +8,5 @@ To achieve this, we first preprocessed the data, handling missing values, encodi
 The final results indicated that the CatBoost Regressor outperformed other models, achieving the lowest values in Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE), and the highest R-squared value. This suggests that CatBoost was the most accurate and consistent in predicting bike rental counts. Given these results, it was selected as the final model. The effectiveness of CatBoost in this context can be attributed to its ability to handle categorical data efficiently and its robustness against overfitting, making it well-suited for this dataset with diverse features and complex relationships.
 
 Overall, this project demonstrated the utility of machine learning in understanding and forecasting consumer behavior in relation to environmental and temporal factors. The success of the CatBoost model in this scenario highlights the potential of advanced ensemble techniques in predictive analytics.
+
+# Video Link
