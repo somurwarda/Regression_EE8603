@@ -1,4 +1,4 @@
-# <h3 class="underline-heading">EE8603 - Bike Sharing - Regression</h3>
+# EE8603 - Bike Sharing - Regression
 
 In this project, we aimed to analyze and predict bike rental counts using various weather and temporal features from a provided dataset. The dataset included information such as date, time, temperature, humidity, wind speed, and whether it was a holiday, among other factors. Our objective was to identify which factors most significantly influenced bike rental patterns and to build a model that could accurately predict rental counts.
 
