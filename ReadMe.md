@@ -10,3 +10,4 @@ The final results indicated that the CatBoost Regressor outperformed other model
 Overall, this project demonstrated the utility of machine learning in understanding and forecasting consumer behavior in relation to environmental and temporal factors. The success of the CatBoost model in this scenario highlights the potential of advanced ensemble techniques in predictive analytics.
 
 # Video Link
+https://www.youtube.com/watch?v=yHO6jj0U81k&t=17s
